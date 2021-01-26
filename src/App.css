@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+* {
+  justify-content: center;
+  text-align: center;
+  place-items: center;
+}
+
+.main {
+  place-items: center;
+  text-align: center;
+}
+
+textarea {
+  width: 300px;
+  height: 150px;
+}
+
+body {
+  font-family: 'Roboto','Lato', Arial, Helvetica, sans-serif;
+}
